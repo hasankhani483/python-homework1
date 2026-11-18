@@ -6,6 +6,7 @@ def Ali(a,b):
 
 def Reza(a,b):
     y=abs((a/b)-1)
+    return y
 
     def Mohammad(x):
         y=m.sin(x+2)
